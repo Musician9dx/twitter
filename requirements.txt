@@ -1,0 +1,12 @@
+numpy
+pandas
+joblib
+tensorflow
+pyfiglet
+seaborn
+scikit-learn
+matplotlib
+transformers
+tqdm
+logging
+-e .
